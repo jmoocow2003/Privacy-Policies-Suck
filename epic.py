@@ -7,6 +7,6 @@ def main(url):
 	c = r.content
 	soup = BeautifulSoup(c, 'html.parser')
 
-	print (soup.prettify)
+	print (soup.find_all('p'))
 
 main(input())
