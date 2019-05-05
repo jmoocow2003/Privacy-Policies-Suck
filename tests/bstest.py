@@ -3,6 +3,8 @@ from bs4 import BeautifulSoup
 import requests
 import re
 
+import ft
+
 def main():
     #setup
     linkDict = {}
