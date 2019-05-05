@@ -21,6 +21,4 @@ def label(parainput):
     model = fastText.train_supervised('..\Data\Gerard.txt')
     #print(parse(input("Enter a website here: ")))
     print(model.predict(parainput))
-
-main()
 #parse(input("Enter website: "))
