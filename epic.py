@@ -5,12 +5,14 @@ import re
 from summa import summarizer
 
 def parse(url):
-	r = requests.get(url)
-	c = r.content
-	soup = BeautifulSoup(c, 'html.parser')
+    r = requests.get(url)
+    c = r.content
+    soup = BeautifulSoup(c, 'html.parser')
 
-	paragraph = str(soup.find_all('p'))
-	x = "".join(paragraph)
-	return re.sub('<[^>]+>', '', x)
+    paragraph = str(soup.find_all('p'))
+    x = "".join(paragraph)
+    for link in soup.find_all('a', attrs={'href': re.compile("^http://")}):
+        print (link.get('href'))
+    return re.sub('<[^>]+>', '', x)
 
-print(parse(input()))
+print(parse(input("Enter a website here: ")))
