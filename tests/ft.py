@@ -20,7 +20,8 @@ def parse(url):
 def label(parainput):
     model = fastText.train_supervised('..\Data\Gerard.txt')
     #print(parse(input("Enter a website here: ")))
-    print(model.predict(parainput))
+    x = summarizer.summarize(parainput)
+    print(model.predict(x))
 
 #main()
 #parse(input("Enter website: "))

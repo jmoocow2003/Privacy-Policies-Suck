@@ -22,7 +22,8 @@ def main():
     for a in links:
         linkDict[re.sub('<[^>]+>', '', str(a))] = str(a.get('href'))
 
-    print (paralist[0])
-    ft.label(paralist[0].replace("\n", ""))
+    for g in range(len(paralist)):
+        print (paralist[g])
+        ft.label(paralist[g].replace("\n", ""))
 
 main()
