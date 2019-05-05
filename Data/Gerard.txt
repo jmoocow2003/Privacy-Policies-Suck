@@ -1,1 +1,28 @@
 __label__contact , If you have a Privacy Shield-related complaint, please contact us here.
+__label__contact , If you have any questions about this policy or about how we manage personal information, you may also contact:
+__label__contact , Chief Privacy Officer/ATIP Director
+__label__contact , 819-994-5970
+__label__contact , 1-800-282-1376
+__label__contact , cpo-rpvp@priv.gc.ca
+__label__collection , We require information about your signup and current location, which we get from signals such as your IP address or device settings, to securely and reliably set up and maintain your account and to provide our services to you.
+__label__collection , Subject to your settings, we may collect, use, and store additional information about your location - such as your current precise position or places where you’ve previously used Twitter - to operate or personalize our services including with more relevant content like local trends, stories, ads, and suggestions for people to follow.
+__label__collection , We may for example, collect your name, contact information, and views in connection with an investigation or a consultation. We may also collect your IP address if you visit our website.
+__label__collection , When you create a Google Account, you provide us with personal information that includes your name and a password. 
+__label__collection , We also collect the content you create, upload, or receive from others when using our services. This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos.
+__label__collection , Information you provide us directly: Your username, password and e-mail address when you register for an Instagram account.
+__label__collection , Profile information that you provide for your user profile (e.g., first and last name, picture, phone number). This information allows us to help you or others be "found" on Instagram.
+__label__collection , We collect information about your location when you use our services, which helps us offer features like driving directions for your weekend getaway or showtimes for movies playing near you.
+__label__collection , Your location can be determined with varying degrees of accuracy by: GPS, IP address, Sensor data from your device, Information about things near your device, such as Wi-Fi access points, cell towers, and Bluetooth-enabled devices
+__label__collection , If you choose to find your friends through (i) your device's contacts list, then Instagram will access your contacts list to determine whether or not someone associated with your contact is using Instagram.
+__label__collection , These tools collect information sent by your device or our Service, including the web pages you visit, add-ons, and other information that assists us in improving the Service.
+__label__use , We use your information to deliver our services, like processing the terms you search for in order to return results or helping you share content by suggesting recipients from your contacts.
+__label__use , We also use your information to ensure our services are working as intended, such as tracking outages or troubleshooting issues that you report to us.
+__label__use , And we use your information to make improvements to our services — for example, understanding which search terms are most frequently misspelled helps us improve spell-check features used across our services.
+__label__use , We use the information we collect in existing services to help us develop new ones. For example, understanding how people organized their photos in Picasa, Google’s first photos app, helped us design and launch Google Photos.
+__label__use , We use the information we collect to customize our services for you, including providing recommendations, personalized content, and customized search results.
+__label__use , Depending on your settings, we may also show you personalized ads based on your interests.
+__label__use , We don’t show you personalized ads based on sensitive categories, such as race, religion, sexual orientation, or health.
+__label__use , We don’t share information that personally identifies you with advertisers, such as your name or email, unless you ask us to.
+__label__use , If you choose, you can use our "Find friends" feature to locate other people with Instagram accounts either through (i) your contacts list, (ii) third-party social media sites or (iii) through a search of names and usernames on Instagram.
+
+__label__cookies , Like many websites, we use cookies and similar technologies to collect additional website usage data and to operate our services.
