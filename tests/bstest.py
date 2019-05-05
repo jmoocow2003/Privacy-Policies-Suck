@@ -4,6 +4,9 @@ import requests
 import re
 
 def main():
+    #setup
+    linkDict = {}
+
     r = requests.get('https://www.example.com')
     c = r.content
     soup = BeautifulSoup(c, 'html.parser')
@@ -16,11 +19,9 @@ def main():
     print(paralist[1])
 
     links = soup.find_all('a')
-    linklist = []
     for a in links:
-        linklist.append(re.sub('<[^>]+>', '', str(a)))
-    print(type(paralist[0]))
-    print(paralist[0])
-    print(paralist[1])
+        linkDict[re.sub('<[^>]+>', '', str(a))] = str(a.get('href'))
+
+    print(linkDict)
 
 main()
