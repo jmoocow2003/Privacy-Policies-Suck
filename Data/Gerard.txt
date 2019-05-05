@@ -22,8 +22,8 @@ __label__contact , Attn: Business and Legal Affairs - Privacy
 __label__contact , 1145 17th Street NW
 __label__contact , Washington, DC 20036-4688
 __label__collection , collect
-__label__collection , If you contact us directly, we may receive additional information about you.
-__label__collection , When you use Scratch, we and our third-party service providers collect information about you and your device through automated means, such as cookies and web server logs
+__label__collection , we may receive additional information about you.
+__label__collection , we and our third-party service providers collect information about you and your device through automated means, such as cookies and web server logs
 __label__collection , we may receive your name, email address, phone number, the contents of a message or attachments that you may send to us, and other information you choose to provide.
 __label__collection , We require information about your signup and current location, which we get from signals such as your IP address or device settings, to securely and reliably set up and maintain your account and to provide our services to you.
 __label__collection , Subject to your settings, we may collect, use, and store additional information about your location - such as your current precise position or places where you’ve previously used Twitter - to operate or personalize our services including with more relevant content like local trends, stories, ads, and suggestions for people to follow.
