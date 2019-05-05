@@ -4,11 +4,17 @@ __label__contact , Chief Privacy Officer/ATIP Director
 __label__contact , 819-994-5970
 __label__contact , 1-800-282-1376
 __label__contact , cpo-rpvp@priv.gc.ca
-__labal__contact , and how you can contact us if you have any questions or concerns.
+__label__contact , and how you can contact us if you have any questions or concerns.
 __label__contact , please contact us by using our web form. For more information about contacting Microsoft, including Microsoft Ireland Operations Limited, see the How to contact us section of this privacy statement
 __label__contact , You can contact us online or by mail at: Facebook, Inc. ATTN: Privacy Operations 1601 Willow Road Menlo Park, CA 94025 
-__labal__contact , contact
-__labal__contact , If you have questions about this policy, how we collect or process your personal data, or anything else related to our privacy practices, we want to hear from you. You can contact us at any time.
+__label__contact , contact
+__label__contact , If you have any questions about this policy, please contact our DPO at:
+__label__contact , Aastvej 1,
+__label__contact , 7190 Billund, Denmark
+__label__contact , Att: Data Protection Officer
+__label__contact , Or by email: privacy.officer@LEGO.com
+__label__contact , Telephone: ++42 0 312 778 197 
+__label__contact , If you have questions about this policy, how we collect or process your personal data, or anything else related to our privacy practices, we want to hear from you. You can contact us at any time.
 __label__collection , collect
 __label__collection , If you contact us directly, we may receive additional information about you.
 __label__collection , When you use Scratch, we and our third-party service providers collect information about you and your device through automated means, such as cookies and web server logs
@@ -37,6 +43,12 @@ __label__collection , We also collect contact information if you choose to uploa
 __label__collection , We collect information about how you use our Products, such as the types of content you view or engage with; the features you use; the actions you take; the people or accounts you interact with; and the time, frequency and duration of your activities. 
 __label__collection , If you use our Products for purchases or other financial transactions (such as when you make a purchase in a game or make a donation), we collect information about the purchase or transaction.
 __label__collection , We also receive and analyze content, communications and information that other people provide when they use our Products.
+__label__collection , At any point while we are in possession of or processing your personal data, you have the following rights:
+__label__collection , Right of access – you have the right to request a copy of the information that we hold about you.
+__label__collection , Right of rectification – you have a right to correct data that we hold about you that is inaccurate or incomplete.
+__label__collection , we collect customer data
+__label__collection , We collect your personal and anonymous information
+__label__collection , We also receive information via third party when you visit our page on social media sites or channels
 __label__use , we use information collected about your use of our Products on your phone to better personalize the content (including ads) or features you see when you use our Products on another device, such as your laptop or tablet, or to measure whether you took an action in response to an ad we showed you on your phone on a different device. 
 __label__use , A device identifier may deliver information to us or to a third party partner about how you browse and use the Service and may help us or others provide reports or personalized content and ads.
 __label__use , We use your information to deliver our services, like processing the terms you search for in order to return results or helping you share content by suggesting recipients from your contacts.
@@ -64,7 +76,10 @@ __label__use , Personalize our products and make recommendations
 __label__use , Advertise and market to you, which includes sending promotional communications, targeting advertising, and presenting you with relevant offers
 __label__disclosure , We may share User Content and your information (including but not limited to, information from cookies, log files, device identifiers, location data, and usage data) with businesses that are legally part of the same group of companies that Instagram is part of, or that become part of that group ("Affiliates").
 __label__disclosure , We also may share your information as well as information from tools like cookies, log files, and device identifiers and location data, with third-party organizations that help us provide the Service to you ("Service Providers").
+__label__disclosure , We don’t share data with anyone unless we have a legal or legitimate reason, or we have permission from you or if you are a child under 16 from your parents.
 __label__retention , Your information collected through the Service may be stored and processed in the United States or any other country in which Instagram, its Affiliates or Service Providers maintain facilities.
+__label__retention , Right to be forgotten – in certain circumstances you can ask for the data we hold about you to be erased from our records. If we are legally obligated to keep the information or if it is impossible or unproportionate, we won’t delete it but we will only keep it for as long as it is needed and we have time limits on our data systems.
 __label__access , You can control your personal data that Microsoft has obtained, and exercise your data protection rights, by contacting Microsoft or using various tools we provide. 
 __label__cookies , Like many websites, we use cookies and similar technologies to collect additional website usage data and to operate our services.
 __label__cookies ,  We use cookies and similar technologies for storing and honoring your preferences and settings, enabling you to sign in, providing interest-based advertising, combating fraud, analyzing how our products perform, and fulfilling other legitimate purposes.
+__label__cookies , Cookies are small data files that your browser places on your computer or device. A cookie itself does not contain or collect information.
