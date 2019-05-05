@@ -15,6 +15,12 @@ __label__contact , Att: Data Protection Officer
 __label__contact , Or by email: privacy.officer@LEGO.com
 __label__contact , Telephone: ++42 0 312 778 197 
 __label__contact , If you have questions about this policy, how we collect or process your personal data, or anything else related to our privacy practices, we want to hear from you. You can contact us at any time.
+__label__contact , If you have additional questions regarding this privacy policy, please contact us at:
+__label__contact , Email: NGPPrivacy@natgeo.com
+__label__contact , National Geographic Partners, LLC
+__label__contact , Attn: Business and Legal Affairs - Privacy
+__label__contact , 1145 17th Street NW
+__label__contact , Washington, DC 20036-4688
 __label__collection , collect
 __label__collection , If you contact us directly, we may receive additional information about you.
 __label__collection , When you use Scratch, we and our third-party service providers collect information about you and your device through automated means, such as cookies and web server logs
@@ -49,6 +55,10 @@ __label__collection , Right of rectification – you have a right to correct data 
 __label__collection , we collect customer data
 __label__collection , We collect your personal and anonymous information
 __label__collection , We also receive information via third party when you visit our page on social media sites or channels
+__label__collection , If you register for a Service to become a member, receive a newsletter, or get information about National Geographic Partners promotions or events, you may be asked for your name, email address, mailing address, phone number and other information
+__label__collection , If you order a product from us or one of our business partners, you may be asked for your name, postal address, email address, telephone number and your credit card number
+__label__collection , If you are ordering a product as a gift for another person, you may be asked for that person’s name, postal address and phone number in order to enable us to deliver the gift to the recipient
+__label__collection , If you participate in an activity such as a survey or sweepstakes, you may be asked for your name, email address and birth date, and also to provide other types of information such as gender and personal interests, which may be associated with other personal information that has been obtained from or about you.
 __label__use , we use information collected about your use of our Products on your phone to better personalize the content (including ads) or features you see when you use our Products on another device, such as your laptop or tablet, or to measure whether you took an action in response to an ad we showed you on your phone on a different device. 
 __label__use , A device identifier may deliver information to us or to a third party partner about how you browse and use the Service and may help us or others provide reports or personalized content and ads.
 __label__use , We use your information to deliver our services, like processing the terms you search for in order to return results or helping you share content by suggesting recipients from your contacts.
@@ -74,12 +84,36 @@ __label__use , Provide our products, which includes updating, securing, and trou
 __label__use , Improve and develop our products
 __label__use , Personalize our products and make recommendations
 __label__use , Advertise and market to you, which includes sending promotional communications, targeting advertising, and presenting you with relevant offers
+__label__use , maintain and manage your account, deliver content and services that you request, improve the Services and enhance your experience on our Services;
+__label__use , to process and track your product or service orders and provide the Services and content you request;
+__label__use , to communicate with you about the content and Services or other products, content or services in which you may be interested, or to respond to your inquiries or comments;
+__label__use , to contact you. National Geographic Partners may periodically send notifications related to the Services such as notifications of changes to the Services or policies;
+__label__use , to offer you branded, co-branded or other services, products, or features, such as travel services and products. By virtue of such relationships, we may share the information you submit in connection with the service with the third party (provided that you have consented to this). The third party’s use of your information will be governed by the third party’s privacy policy;
+__label__use , to deliver relevant advertising and marketing
+__label__use , to allow social sharing functionality
+__label__use , to perform business analyses or for other purposes to improve the quality of our business, the Services, and the products and services we offer;
+__label__use , To protect the rights of Company and others
+__label__use , to complete a merger or sale of assets
+__label__use , In order to make our content, Services and advertising more interesting and relevant to you, we may use the information we collect from and about you to make inferences and predictions about your potential areas of interest. When the information collected from or about you does not identify you as a specific person, we may use that information for any purpose or share it with third parties, to the extent permitted by applicable law.
 __label__disclosure , We may share User Content and your information (including but not limited to, information from cookies, log files, device identifiers, location data, and usage data) with businesses that are legally part of the same group of companies that Instagram is part of, or that become part of that group ("Affiliates").
 __label__disclosure , We also may share your information as well as information from tools like cookies, log files, and device identifiers and location data, with third-party organizations that help us provide the Service to you ("Service Providers").
 __label__disclosure , We don’t share data with anyone unless we have a legal or legitimate reason, or we have permission from you or if you are a child under 16 from your parents.
+__label__disclosure , with entities that help us to manage and provide the Services, including development of our websites and applications, maintenance and support, personalization, payment processing, email distribution, measurement and improvement, sweepstakes/contest administration, booking, fulfilment, and operation of travel services and products, and promotions management, only to the extent that these entities need the information to perform their services or as required by law;
+__label__disclosure , with our National Geographic Affiliates and with the National Geographic Society. You agree and consent that National Geographic Partners may share your information with National Geographic Affiliates for the purposes described in this Privacy Policy. This may include transferring information to other countries (including countries other than where you are based) that have a different data protection regime than is found in the country where you are based which may include countries outside of the EEA including the United States. Users who visit National Geographic Affiliates’ and the National Geographic Society services should still refer to their separate privacy policies, which may differ in some respects from this Privacy Policy;
+__label__disclosure , with identified entities whose products or services you specifically use or request to receive while you use the Services;
+__label__disclosure , with our business partners, such as travel operators. Their use of your personal information will be governed by their own privacy policies;
+__label__disclosure , with third parties in in the ordinary course of business in order to process your requests and fulfil your orders for video content offered through the Services;
+__label__disclosure , with your consent, with other selected third parties so that they may send you promotional materials about goods and services that they offer;
+__label__disclosure , in response to legal process and when we believe that doing so is required by law (including laws applicable to our Affiliates and service providers), may be necessary to protect any person’s property, rights, or safety, or to investigate a potential violation of law, will help to enforce any terms of use or other legal agreement, or in the event of a corporate transaction, such as a divestiture, merger, consolidation, bankruptcy or asset sale;
 __label__retention , Your information collected through the Service may be stored and processed in the United States or any other country in which Instagram, its Affiliates or Service Providers maintain facilities.
 __label__retention , Right to be forgotten – in certain circumstances you can ask for the data we hold about you to be erased from our records. If we are legally obligated to keep the information or if it is impossible or unproportionate, we won’t delete it but we will only keep it for as long as it is needed and we have time limits on our data systems.
+__label__retention , We will retain your information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
+__label__access , If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out of receiving these emails be clicking “Unsubscribe” or “Update my Preferences” at the bottom of any marketing email you receive or via this opt-out link.
+__label__access , If you would prefer that we do not share your personal information on a going-forward basis with business partners for their direct marketing purposes, you may opt-out of this sharing via this opt-out link
+__label__access , If you continue to receive our communications in error after expressing an opt-out preference, please let us know so that we can investigate the situation
+__label__access , If you are under 18 and a registered user of the Services, you may request removal of content or information that you have publicly posted to the Services. To make such a request, please go to our opt-out link. Please identify “privacy” in the description of your request and select “User Content Removal” as the option that best describes your type of inquiry. Please also provide your name, email address, and a detailed description of your content removal request in the designated spaces. Please note that your request does not ensure complete or comprehensive removal of the content or information, as, for example, some of your content may have been reposted by another user. There may also be circumstances where the law does not allow removal of your content even if requested
 __label__access , You can control your personal data that Microsoft has obtained, and exercise your data protection rights, by contacting Microsoft or using various tools we provide. 
 __label__cookies , Like many websites, we use cookies and similar technologies to collect additional website usage data and to operate our services.
 __label__cookies ,  We use cookies and similar technologies for storing and honoring your preferences and settings, enabling you to sign in, providing interest-based advertising, combating fraud, analyzing how our products perform, and fulfilling other legitimate purposes.
+__label__cookies , third-party advertising networks and advertisers may use cookies and similar technologies to collect and track information such as demographic information, inferred interests, aggregated information, and information about the different devices you use and your activity on such devices, to assist them in delivering advertising that is more relevant to your interests
 __label__cookies , Cookies are small data files that your browser places on your computer or device. A cookie itself does not contain or collect information.
