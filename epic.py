@@ -11,7 +11,7 @@ def parse(url):
 
     paragraph = str(soup.find_all('p'))
     x = "".join(paragraph)
-    for link in soup.find_all('a', attrs={'href': re.compile("^http://")}):
+    for link in soup.find_all('a', attrs={'href': re.compile("^http://")}): #look into attrs
         print (link.get('href'))
     return re.sub('<[^>]+>', '', x)
 
