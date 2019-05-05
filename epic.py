@@ -1,6 +1,8 @@
 import bs4
 from bs4 import BeautifulSoup
 import requests
+import re
+from summa import summarizer
 
 def main(url):
 	r = requests.get(url)
@@ -9,7 +11,5 @@ def main(url):
 
 	paragraph = str(soup.find_all('p'))
 	x = "".join(paragraph)
-	a = x.replace ("<p>", "").replace ("</p>", "")
-	print (a)
-
+	print (re.sub('<[^>]+>', '', x))
 main(input())
