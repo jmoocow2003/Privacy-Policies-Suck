@@ -7,6 +7,9 @@ def main(url):
 	c = r.content
 	soup = BeautifulSoup(c, 'html.parser')
 
-	print (soup.find_all('p'))
+	paragraph = str(soup.find_all('p'))
+	x = "".join(paragraph)
+	a = x.replace ("<p>", "").replace ("</p>", "")
+	print (a)
 
 main(input())
