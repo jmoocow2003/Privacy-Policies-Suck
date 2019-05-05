@@ -19,7 +19,9 @@ def parse(url):
 
 def main():
     model = fastText.train_supervised('..\Data\Gerard.txt')
-    print(parse("https://www.example.com"))
-    print(model.predict(parse("https://www.example.com")))
+    #print(parse(input("Enter a website here: ")))
+    print(model.predict(parse(input("Enter a website here: "))))
+    print(model.predict(input("Enter a sentence here: ")))
 
 main()
+#parse(input("Enter website: "))
