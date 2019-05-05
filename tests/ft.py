@@ -17,11 +17,10 @@ def parse(url):
     newlist = re.sub('<[^>]+>', '', paragraph)
     return newlist[0]
 
-def main():
+def label(parainput):
     model = fastText.train_supervised('..\Data\Gerard.txt')
     #print(parse(input("Enter a website here: ")))
-    print(model.predict(parse(input("Enter a website here: "))))
-    print(model.predict(input("Enter a sentence here: ")))
+    print(model.predict(parainput))
 
 main()
 #parse(input("Enter website: "))
