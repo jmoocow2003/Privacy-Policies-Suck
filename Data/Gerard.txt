@@ -4,6 +4,10 @@ __label__contact , Chief Privacy Officer/ATIP Director
 __label__contact , 819-994-5970
 __label__contact , 1-800-282-1376
 __label__contact , cpo-rpvp@priv.gc.ca
+__labal__contact , and how you can contact us if you have any questions or concerns.
+__label__collection , If you contact us directly, we may receive additional information about you.
+__label__collection , When you use Scratch, we and our third-party service providers collect information about you and your device through automated means, such as cookies and web server logs
+__label__collection , we may receive your name, email address, phone number, the contents of a message or attachments that you may send to us, and other information you choose to provide.
 __label__collection , We require information about your signup and current location, which we get from signals such as your IP address or device settings, to securely and reliably set up and maintain your account and to provide our services to you.
 __label__collection , Subject to your settings, we may collect, use, and store additional information about your location - such as your current precise position or places where you’ve previously used Twitter - to operate or personalize our services including with more relevant content like local trends, stories, ads, and suggestions for people to follow.
 __label__collection , We may for example, collect your name, contact information, and views in connection with an investigation or a consultation. We may also collect your IP address if you visit our website.
@@ -15,6 +19,11 @@ __label__collection , We collect information about your location when you use ou
 __label__collection , Your location can be determined with varying degrees of accuracy by: GPS, IP address, Sensor data from your device, Information about things near your device, such as Wi-Fi access points, cell towers, and Bluetooth-enabled devices
 __label__collection , If you choose to find your friends through (i) your device's contacts list, then Instagram will access your contacts list to determine whether or not someone associated with your contact is using Instagram.
 __label__collection , These tools collect information sent by your device or our Service, including the web pages you visit, add-ons, and other information that assists us in improving the Service.
+__label__collection , When you use a mobile device like a tablet or phone to access our Service, we may access, collect, monitor, store on your device, and/or remotely store one or more "device identifiers."
+__label__collection , We obtain Personal Information relating to you from various sources described below.
+__label__collection , During account creation, we ask you for a username, your country, birth month and year, gender, and your email address (or your parent or guardian's email address if you are under 16 years old).
+__label__collection , We collect any information that you provide to us when you create Scratch projects (including unshared projects), write comments, or post on our forums.
+__label__use , A device identifier may deliver information to us or to a third party partner about how you browse and use the Service and may help us or others provide reports or personalized content and ads.
 __label__use , We use your information to deliver our services, like processing the terms you search for in order to return results or helping you share content by suggesting recipients from your contacts.
 __label__use , We also use your information to ensure our services are working as intended, such as tracking outages or troubleshooting issues that you report to us.
 __label__use , And we use your information to make improvements to our services — for example, understanding which search terms are most frequently misspelled helps us improve spell-check features used across our services.
@@ -24,5 +33,17 @@ __label__use , Depending on your settings, we may also show you personalized ads
 __label__use , We don’t show you personalized ads based on sensitive categories, such as race, religion, sexual orientation, or health.
 __label__use , We don’t share information that personally identifies you with advertisers, such as your name or email, unless you ask us to.
 __label__use , If you choose, you can use our "Find friends" feature to locate other people with Instagram accounts either through (i) your contacts list, (ii) third-party social media sites or (iii) through a search of names and usernames on Instagram.
-
+__label__use , In addition to some of the specific uses of information we describe in this Privacy Policy, we may use information that we receive to:
+__label__use , help you efficiently access your information after you sign in
+__label__use , remember information so you will not have to re-enter it during your visit or the next time you visit the Service;
+__label__use , provide personalized content and information to you and others, which could include online ads or other forms of marketing
+__label__use , provide, improve, test, and monitor the effectiveness of our Service
+__label__use , develop and test new products and features
+__label__use , monitor metrics such as total number of visitors, traffic, and demographic patterns
+__label__use , diagnose or fix technology problems
+__label__use , automatically update the Instagram application on your device
+__label__use , Instagram or other Users may run contests, special offers or other events or activities ("Events") on the Service.
+__label__disclosure , We may share User Content and your information (including but not limited to, information from cookies, log files, device identifiers, location data, and usage data) with businesses that are legally part of the same group of companies that Instagram is part of, or that become part of that group ("Affiliates").
+__label__disclosure , We also may share your information as well as information from tools like cookies, log files, and device identifiers and location data, with third-party organizations that help us provide the Service to you ("Service Providers").
+__label__retention , Your information collected through the Service may be stored and processed in the United States or any other country in which Instagram, its Affiliates or Service Providers maintain facilities.
 __label__cookies , Like many websites, we use cookies and similar technologies to collect additional website usage data and to operate our services.
