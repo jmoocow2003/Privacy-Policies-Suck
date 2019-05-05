@@ -1,0 +1,7 @@
+__label__contact , please contact us by using our web form. For more information about contacting Microsoft, including Microsoft Ireland Operations Limited, see the How to contact us section of this privacy statement
+__label__use , Provide our products, which includes updating, securing, and troubleshooting, as well as providing support. It also includes sharing data, when it is required to provide the service or carry out the transactions you request
+__label__use , Improve and develop our products
+__label__use , Personalize our products and make recommendations
+__label__use , Advertise and market to you, which includes sending promotional communications, targeting advertising, and presenting you with relevant offers
+__label__collection , The data we collect depends on the context of your interactions with Microsoft and the choices you make, including your privacy settings and the products and features you use
+__label__collection , We also obtain data about you from third parties
