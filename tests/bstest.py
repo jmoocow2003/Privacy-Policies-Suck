@@ -2,6 +2,7 @@ import bs4
 from bs4 import BeautifulSoup
 import requests
 import re
+import fastText
 
 import ft
 
@@ -24,8 +25,40 @@ def main():
     for a in links:
         linkDict[re.sub('<[^>]+>', '', str(a))] = str(a.get('href'))
 
+    contact = []
+    collection = []
+    use = []
+    disclosure = []
+    retention = []
+    access = []
+    cookies = []
+
     for g in range(len(paralist)):
         print (paralist[g])
-        ft.label(paralist[g].replace("\n", ""))
+        prediction = ft.label(paralist[g].replace("\n", ""))
+        print (type(prediction[0][0]))
+        print (prediction)
+        if prediction[0][0] == "__label__contact":
+            contact.append(paralist[g])
+        elif prediction[0][0] == "__label__collection":
+            collection.append(paralist[g])
+        elif prediction[0][0] == "__label__use":
+            use.append(paralist[g])
+        elif prediction[0][0] == "__label__disclosure":
+            disclosure.append(paralist[g])
+        elif prediction[0][0] == "__label__retention":
+            retention.append(paralist[g])
+        elif prediction[0][0] == "__label__access":
+            access.append(paralist[g])
+        elif prediction[0][0] == "__label__cookies":
+            cookies.append(paralist[g])
+
+    print (contact)
+    print (collection)
+    print (use)
+    print (disclosure)
+    print (retention)
+    print (access)
+    print (cookies)
 
 main()
