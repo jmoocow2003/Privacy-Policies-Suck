@@ -22,5 +22,5 @@ def label(parainput):
     #print(parse(input("Enter a website here: ")))
     print(model.predict(parainput))
 
-main()
+#main()
 #parse(input("Enter website: "))
