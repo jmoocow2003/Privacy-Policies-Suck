@@ -9,7 +9,7 @@ def main():
     #setup
     linkDict = {}
 
-    r = requests.get('https://www.example.com')
+    r = requests.get(input("Enter a website here: "))
     c = r.content
     soup = BeautifulSoup(c, 'html.parser')
     paragraph = soup.find_all('p')
