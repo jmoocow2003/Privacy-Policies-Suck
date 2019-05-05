@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import requests
 import re
 import fastText
+from summa import summarizer
 
 import ft
 
@@ -39,19 +40,19 @@ def main():
         print (type(prediction[0][0]))
         print (prediction)
         if prediction[0][0] == "__label__contact":
-            contact.append(paralist[g])
+            contact.append(summarizer.summarize(paralist[g]))
         elif prediction[0][0] == "__label__collection":
-            collection.append(paralist[g])
+            collection.append(summarizer.summarize(paralist[g]))
         elif prediction[0][0] == "__label__use":
-            use.append(paralist[g])
+            use.append(summarizer.summarize(paralist[g]))
         elif prediction[0][0] == "__label__disclosure":
-            disclosure.append(paralist[g])
+            disclosure.append(summarizer.summarize(paralist[g]))
         elif prediction[0][0] == "__label__retention":
-            retention.append(paralist[g])
+            retention.append(summarizer.summarize(paralist[g]))
         elif prediction[0][0] == "__label__access":
-            access.append(paralist[g])
+            access.append(summarizer.summarize(paralist[g]))
         elif prediction[0][0] == "__label__cookies":
-            cookies.append(paralist[g])
+            cookies.append(summarizer.summarize(paralist[g]))
 
     print (contact)
     print (collection)
